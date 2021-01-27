@@ -356,6 +356,7 @@ sentry-sdk==0.19.5
 setproctitle==1.2.2
 simple-salesforce==1.10.1
 six==1.15.0
+slack-sdk==3.2.1
 slackclient==2.9.3
 smmap==3.0.5
 snowballstemmer==2.1.0
